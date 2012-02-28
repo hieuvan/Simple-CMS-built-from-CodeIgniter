@@ -1,1 +1,3 @@
-hi
+This repository includes only controllers,models,views for CodeIgniter version 2 along with MySQL,HTML,XHTML,CSS,Javascript/Jquery/Ajax.
+These have some CMS functions to manage page content using wysiwyg cute editor, update page properties like page category,photo gallery attached.
+Front end controller displays page content and photo gallery managed in CMS backend from database.
