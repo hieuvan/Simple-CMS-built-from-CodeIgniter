@@ -1,0 +1,66 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	font-family:Helvetica Neue, Helvetica , Arial, sans-serif;
+	font-size:12px;
+	color:#474747;
+	width:100%;
+	height:100%;
+	margin:0 auto;
+}
+a img
+{
+	border:0 none;
+}
+a 
+{
+	color:#00CCFF;
+	text-decoration:none;
+}
+#gallery_vertical {
+    float: right;
+    margin: 40px 0 0;
+    width: 138px;
+}
+#gallery ul li
+{
+	
+	display: inline;
+}
+#gallery ul
+{
+	list-style: none outside none;
+}
+#gallery ul img {
+    margin-right: 10px;
+}
+
+#page-wrapper
+{
+	margin:0 auto;
+	width:980px;
+	
+}
+#header
+{
+	width:980px;
+	height:120px;
+	float:left;
+}
+#logo
+{
+	padding-top:20px;
+	padding-left:10px;
+	float:left;
+	width:305px;
+	height:85px;
+}
+.page_content
+{
+	margin:10px 0 10px 0;
+	width:600px;
+}
